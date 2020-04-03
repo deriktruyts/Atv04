@@ -16,4 +16,4 @@ public class ConnectionFactory {
 	public static Connection obtemConexao() throws SQLException {
 		return DriverManager.getConnection("jdbc:mysql://localhost/pais?user=root&password=TRUYTS9955&useTimezone=true&serverTimezone=UTC");
 	}
-}
+}a
